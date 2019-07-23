@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/personmenuitem"
+        android:icon="@drawable/ic_person"
+        android:title="For you" />
+    <item
+        android:id="@+id/headlinesmenuitem"
+        android:icon="@drawable/ic_language"
+        android:title="Headlines" />
+    <item
+        android:id="@+id/catmenuitem"
+        android:icon="@drawable/ic_menu"
+        android:title="Category" />
+</menu>
